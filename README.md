@@ -63,7 +63,7 @@ GROQ_API_KEY=your_groq_api_key_here
 ## ⚙️ Installation & Setup
 
 1. Clone repo  
-git clone https://github.com/your-username/medi-core-ai.git  
+git clone https://github.com/umairjaffer/medi-core-ai.git  
 cd medi-core-ai  
 
 2. Create virtual environment  
